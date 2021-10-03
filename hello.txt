@@ -1,0 +1,3 @@
+hello my name is sidhardh! 
+this is a txt file and i am gonna push it to github
+using git bash!
